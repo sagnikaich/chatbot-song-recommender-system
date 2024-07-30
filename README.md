@@ -108,12 +108,6 @@ Contributions are what make the open source community such an amazing place to l
 ![Screenshot (4190)](https://user-images.githubusercontent.com/82352524/132103606-cb6b5536-0a21-45b6-a7aa-59ded03edfe7.png)
 ![Screenshot (4191)](https://user-images.githubusercontent.com/82352524/132103631-c184faa0-0be6-4757-a976-c34deac2bba9.png)
 
-#### 3. Review
-![Screenshot (4195)](https://user-images.githubusercontent.com/82352524/132103673-75a01819-5780-4029-8000-65cb31a68771.png)
-![Screenshot (4197)](https://user-images.githubusercontent.com/82352524/132103697-67d01cb9-a307-4916-a54e-ca701c192560.png)
-![Screenshot (4201)](https://user-images.githubusercontent.com/82352524/132103739-49e7d128-8473-4b94-b867-6c8d4356476a.png)
-![Screenshot (4204)](https://user-images.githubusercontent.com/82352524/132103804-c71037f2-572b-418d-8e4d-6b553fd016fa.png)
-
 
 
 
